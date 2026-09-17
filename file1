@@ -1,0 +1,3 @@
+git remote add origin https://github.com/YOUR_GITHUB_USERNAME/condo-equity-dashboard.git
+git branch -M main
+git push -u origin main
